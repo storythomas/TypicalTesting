@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Include\Sales_data.h">
+    <ClInclude Include="Include\Sales_item.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

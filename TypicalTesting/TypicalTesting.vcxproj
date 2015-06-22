@@ -14,7 +14,7 @@
     <ClCompile Include="Source\Source.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Include\Sales_data.h" />
+    <ClInclude Include="Include\Sales_item.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6387C3BC-99AB-47A3-9CB7-01512D2FC611}</ProjectGuid>

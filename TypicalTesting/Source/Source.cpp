@@ -52,8 +52,9 @@ int main()
 		// End of if/else, error if trying to add two different books.
 		std::cerr << "Data must rever to the same ISBN" << std::endl;
 		return -1;
+		system("pause");
 	}
 
-	system("pause");
 	return 0;
+	system("pause");
 }

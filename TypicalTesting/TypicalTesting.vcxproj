@@ -47,8 +47,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>E:\Projects\Visual\TypicalTesting\TypicalTesting\Include;$(IncludePath)</IncludePath>
-    <SourcePath>E:\Projects\Visual\TypicalTesting\TypicalTesting\Source;$(SourcePath)</SourcePath>
+    <IncludePath>C:\Users\Toms\Documents\GitHubVisualStudio\TypicalTesting\TypicalTesting\Include;E:\Projects\Visual\TypicalTesting\TypicalTesting\Include;$(IncludePath)</IncludePath>
+    <SourcePath>C:\Users\Toms\Documents\GitHubVisualStudio\TypicalTesting\TypicalTesting\Source;E:\Projects\Visual\TypicalTesting\TypicalTesting\Source;$(SourcePath)</SourcePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
